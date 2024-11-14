@@ -27,8 +27,8 @@ body{background-color:#B9E5E8;
     border-radius: 10px;
     width: 500px;
     height: 550px;
-    text-align: right;
-    margin-top: 50px;   
+    text-align: left;
+    margin-top: 50px;  
 }
 
 label{
@@ -44,7 +44,7 @@ input{
     margin-bottom: 30px;    /* Space between inputs */
     border-radius: 4px;
     box-sizing: border-box; 
-    margin-left: 15px;
+
 }
 
 .address{height: 15px;}
