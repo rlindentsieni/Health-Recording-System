@@ -28,8 +28,9 @@ body{background-color:#B9E5E8;
     width: 500px;
     height: 550px;
     text-align: left;
-    margin-top: 50px;  
+    margin-top: 50px;
 }
+
 
 label{
     margin-bottom: 0;    /* Space between label and input */
@@ -44,7 +45,6 @@ input{
     margin-bottom: 30px;    /* Space between inputs */
     border-radius: 4px;
     box-sizing: border-box; 
-
 }
 
 .address{height: 15px;}
